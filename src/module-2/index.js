@@ -14,7 +14,7 @@ server.listen(process.env.port || process.env.PORT || 3978, () => {
         server.name,
         server.url
     );
-});
+});cxvdvfvfvfv
 
 
 const connector = new ConfigurationServiceClientCredentialFactory({
